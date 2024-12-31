@@ -97,7 +97,7 @@ const Donate = () => {
             </defs>
           </svg>
         </div>
-        <p>{t("donateSection.accountDetails")}</p>
+        <p className="my-2">{t("donateSection.accountDetails")}</p>
         <div className="rounded my-2 ">
           <table className="min-w-full text-slate-800 rounded bg-slate-100 ">
             <tbody>
