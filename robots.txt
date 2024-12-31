@@ -1,0 +1,31 @@
+# Global rules
+User-agent: *
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /src/
+Crawl-delay: 10
+
+# Allow public assets
+User-agent: *
+Allow: /public/*.webp$
+Allow: /public/*.svg$
+Allow: /public/*.png$
+Allow: /public/*.jpg$
+
+# Google-specific rules
+User-agent: Googlebot
+Disallow: /private/
+Allow: /
+
+# Bing-specific rules
+User-agent: Bingbot
+Disallow: /private/
+Allow: /
+
+# Yandex-specific rules
+User-agent: Yandex
+Disallow: /private/
+Allow: /
+
+Host: https://raghusbhat.github.io
+Sitemap: https://raghusbhat.github.io/gaubank/sitemap.xml

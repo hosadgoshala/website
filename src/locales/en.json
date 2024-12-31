@@ -1,0 +1,71 @@
+{
+  "navbar": {
+    "name": "Bharatiya Gou-Bank",
+    "about": "About",
+    "programs": "Our Programs",
+    "facility": "Our Facility",
+    "donate": "Donate",
+    "contact": "Contact"
+  },
+  "heroSection": {
+    "welcome": "Welcome to",
+    "name": "Bharatiya Gou-Bank",
+    "subtitle": "Protecting Cows, Preserving Bharathvarsha",
+    "description": "At Bharatiya Gou-Bank, Hosad, we are dedicated to the welfare and protection of Indian indigenous cows. This one-of-a-kind initiative provides a safe and nurturing home for these sacred animals. Join us in ensuring their survival and celebrating our rich heritage. ",
+    "button": "Donate"
+  },
+
+  "aboutSection": {
+    "title": "About Us",
+    "vision": "A Vision of Cow Protection by",
+    "visionName": "His Holiness Shri Shri Raghaveshwara Bharati Mahaswamiji",
+    "description": "Bharatiya Gou-Bank is a unique initiative conceptualized by His Holiness Shree Shree Raghaveshwara Bharathi Mahaswamiji. This groundbreaking project marks a significant step towards protection and welfare of Indian Indigenous Cow [Goumatha]. The Gou-Bank provides a sanctuary for cows, ensuring their survival and well-being. ",
+    "description2": "When farmers find it uneconomical to maintain unproductive cows, they can leave them at the Gou-Bank instead of selling them to slaughterhouses. The Gou-Bank will take care of these cows. For those interested in rearing cows and bullocks, the Gou-Bank donates them free of cost from its existing stock. This initiative addresses the distressing trend of selling cows to butchers when they are no longer deemed useful. By donating these cows to the Gou-Bank, they are given a new lease on life. ",
+    "description3": "The primary objective of this scheme is to protect and nurture such cattle. The Gou-Bank also cares for cattle injured in accidents, neglected by careless owners, deserted, or seized by local authorities during unlawful transportation to slaughterhouses."
+  },
+  "programsSection": {
+    "title": "Our Programs",
+    "description": "This initiative was started on December 17, 2006, by His Holiness Shri Shri Raghaveshwara Bharati Mahaswamiji under the 'Kamadugha' project, aimed at protecting Indian cow breeds.",
+    "description2": "It is part of the holistic mission of Shri Ramachandrapura Math to highlight the benefits of protecting and conserving Desi cows (Bos Indicus) for humanity, supported by historical evidence and research-based outcomes.",
+    "description3": "The Gou-Bank undertakes several programs",
+    "subtitle1": "Species Continuation",
+    "subtitle1Description": "Promoting natural insemination to ensure the continuation of Indian cow breeds.",
+    "subtitle2": "Protection and Public Awareness",
+    "subtitle2Description": "Conducting training and demonstration programs to raise public awareness.",
+    "subtitle3": "Organic Farming",
+    "subtitle3Description": "Promote organic farming and supplying excellent quality organic bio-fertilizer to farmers.",
+    "subtitle4": "By-Product Utilization",
+    "subtitle4Description": "Extracting essence from cow urine [gou arka], producing bio-gas from cow dung, and cultivating green fodder.",
+    "subtitle5": "Community Engagement",
+    "subtitle5Description": "Encouraging every household to maintain cows and popularizing organic agriculture.",
+    "subtitle6": "Visitor Encouragement",
+    "subtitle6Description": "Inviting patrons to visit the premises to learn more about our initiatives and witness the impact firsthand."
+  },
+  "facilitySection": {
+    "title": "Cattle Breeds and Facility",
+    "description": "At our facility, we are dedicated to the care and preservation of various esteemed cattle breeds from across India.",
+    "description2": "Our infrastructure includes 160 well-maintained cow sheds, designed to accommodate a total of 300 cattle. Each shed is equipped to provide a comfortable and safe environment, ensuring that all our cattle receive the best possible care and attention.",
+    "subtitle1": "Some of the breeds we care for",
+    "Deoni": "Maharashtra - Deoni Breed",
+    "Geer": "Gujarat - Geer Breed",
+    "Kankrej": "Gujarat - Kankrej Breed",
+    "Hallikar": "Karnataka - Hallikar Breed",
+    "Khillari": "Maharashtra/Karnataka - Khillari Breed",
+    "MalnadGidda": "Karnataka - Malnad Gidda Breed",
+    "subtitle2": "Our Facility"
+  },
+  "donateSection": {
+    "title": "Support the Cause",
+    "description": "The maintenance and care of these rescued cows demand substantial funds and resources for food, medicine, and other necessities. We kindly request your generous donations to support this noble cause. Any contribution, no matter how small or big, is greatly appreciated.",
+    "upi": "If you are on mobile, click the UPI link below",
+    "qrCode": "Or, scan this QR code from your favourite UPI app to donate",
+    "accountDetails": "If you wish to donate through a bank account, below are our details"
+  },
+  "addressSection": {
+    "title": "Come visit us at",
+    "description": "Dharma Chakra Trust ® ",
+    "description2": "Bharatiya Gou Bank, Hosad, Honavar,",
+    "description3": "Uttara Kannada, Karnataka 581362",
+    "description4": "8277542358"
+  }
+}
