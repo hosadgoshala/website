@@ -5,7 +5,7 @@ const JourneySection = () => {
   const { t } = useTranslation();
 
   return (
-    <section id="programs" className="bg-red-500 p-4 md:p-5">
+    <section id="programs" className="p-4 md:p-5">
       <div className="container mx-auto  md:my-10 bg-white p-4 md:p-8 rounded text-center lg:max-w-[50vw]">
         <div className="flex items-center justify-center gap-2">
           <h3 className="text-lg md:text-2xl font-semibold text-center text-primary">
