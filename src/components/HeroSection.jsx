@@ -6,13 +6,13 @@ const HeroSection = () => {
 
   return (
     <section
-      id="hero"
+      id="home"
       className="relative h-[70vh] md:h-[80vh] bg-cover"
-      style={{ 
+      style={{
         backgroundImage: 'url("./hero_img.webp")',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-        backgroundRepeat: 'no-repeat'
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
       }}
       aria-label="Hero section with cow protection mission statement"
       loading="lazy"
