@@ -1,7 +1,8 @@
 import "./App.css";
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import { useTranslation } from "react-i18next";
 
 // Lazy load components
 const HeroSection = lazy(() => import("./components/HeroSection"));
@@ -14,6 +15,13 @@ const WhatsAppChat = lazy(() => import("./components/WhatsAppChat"));
 const LanguageModal = lazy(() => import("./components/LanguageModal"));
 
 function App() {
+  const { i18n } = useTranslation();
+
+  // Update HTML lang attribute when language changes
+  useEffect(() => {
+    document.documentElement.lang = i18n.language;
+  }, [i18n.language]);
+
   return (
     <>
       <Suspense fallback={<div>Loading...</div>}>

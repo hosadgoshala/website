@@ -14,18 +14,31 @@
     "description": "At Bharatiya Gou-Bank, Hosad, we are dedicated to the welfare and protection of Indian indigenous cows. This one-of-a-kind initiative provides a safe and nurturing home for these sacred animals. Join us in ensuring their survival and celebrating our rich heritage. ",
     "button": "Donate"
   },
-
   "aboutSection": {
     "title": "About Us",
-    "vision": "A Vision of Cow Protection by",
-    "visionName": "His Holiness Shri Shri Raghaveshwara Bharati Mahaswamiji",
-    "description": "Bharatiya Gou-Bank is a unique initiative conceptualized by His Holiness Shree Shree Raghaveshwara Bharathi Mahaswamiji. This groundbreaking project marks a significant step towards protection and welfare of Indian Indigenous Cow [Goumatha]. The Gou-Bank provides a sanctuary for cows, ensuring their survival and well-being. ",
-    "description2": "When farmers find it uneconomical to maintain unproductive cows, they can leave them at the Gou-Bank instead of selling them to slaughterhouses. The Gou-Bank will take care of these cows. For those interested in rearing cows and bullocks, the Gou-Bank donates them free of cost from its existing stock. This initiative addresses the distressing trend of selling cows to butchers when they are no longer deemed useful. By donating these cows to the Gou-Bank, they are given a new lease on life. ",
-    "description3": "The primary objective of this scheme is to protect and nurture such cattle. The Gou-Bank also cares for cattle injured in accidents, neglected by careless owners, deserted, or seized by local authorities during unlawful transportation to slaughterhouses."
+    "vision1": "Amruthadhara Goushala, Hosad",
+    "description1": "Under the Kamadhugha Project, it was inaugurated on December 17, 2006, by Paramapujya Sri Sri Raghaveshwara Bharati Mahaswamiji. The initiative was started with the aim of Indian cow conservation and houses various indigenous breeds, including Malenadu Gidda, Hallikar, Kankrej, Amritmahal, Gir, Ongole, Punganur, Jhavari, and Sahiwal. Key activities include natural breeding for breed preservation, conservation through a cow bank, training, demonstrations, and awareness programs to educate visitors on the significance of Indian cow breeds. Additionally, several initiatives have been undertaken for the well-being of humanity and sustainable farming: production of Go-Arka, a medicinal extract beneficial for human health, supply of high-quality organic manure from dung to farmers, preparation of Gomaya (cow dung) fuel cakes for religious rituals, supply of Panchagavya (cow-derived products) for Ayurvedic treatments, biogas production for sustainable energy, manufacturing disinfectants like phenyl from cow urine, value addition of cow-based products. Efforts are continuously made to ensure the preservation of indigenous cattle through these projects. Future plans include developing the Goshala into a Panchagavya therapy center and a tourist center",
+    "vision2": "Bharatiya GoBank, Hosad",
+    "description2": "Under the unique vision of Paramapujya Sri Sri Raghaveshwara Bharati Mahaswamiji, Bharatiya GoBank is a significant and remarkable initiative",
+    "description3": "Cows bring no harm to humanity, yet they often endure challenges caused by humans. Bharatiya GoBank stands as a solution to protect and support them",
+    "description4": "The Indian GoBank is a dedicated initiative that provides a well-organized and secure care system for vulnerable cows",
+    "description5": "When the care of cows becomes challenging or when they are no longer deemed useful, farmers can entrust them to the GoBank. These cows are received free of charge, offered shelter, and provided with compassionate, responsible care. In a similar vein, for farmers with an interest in cow-based agriculture, indigenous breed cows are offered free of cost to deserving individuals, in accordance with established regulations. This unique model positions the GoBank as the world’s first institution where cows are exchanged without any monetary transaction.In addition, in the coastal region of North Kannada, cows that have been injured in accidents or lost limbs are given the opportunity for a new life, with rehabilitation and care at the GoBank. To date, over a thousand cows have found refuge and care here. This sanctuary has also become a revered final resting place, where cows that succumb to serious injuries are laid to rest with honor and dignity",
+    "description6": "An electronic misting system (self-operating electric cooling system) has been installed to create a comfortable environment and provide relief to cows during the scorching summer heat. This system has been sponsored by Mr. Ganapati and Mrs. Aparna Bhat. Additionally, more than 15 rubber mats have been provided for the elderly cows. When cows suffer injuries, they are carefully tended to on water beds for comfort and care",
+    "description7": "This has also become a sanctuary for cows rescued from slaughterhouses, diseased cows abandoned by farmers, and stray cows—serving as a place of peace and care for them all",
+    "description8": "To date, over 3,000 cows have been provided, and more than 2,000 cows have been received from farmers who could no longer care for them",
+    "description9": "At present, the GoBank is home to 245 cows. With a monthly maintenance cost of 6 lakh, the organization strives to generate income, yet the financial shortfall remains. In this regard, it is the generosity of donors that serves as the vital force sustaining this noble, non-profit initiative",
+    "description10": "A spiritual center for those who want to conduct Kamadhenu Yaga and Yajnas, dedicated to the purification and removal of all obstacles and afflictions",
+    "description11": "The construction of the Kalyani Lake serves as a water source for the cows and a beautiful attraction for visiting tourists",
+    "description12": "The Panchagavya Therapy Center",
+    "description13": "A charming guesthouse offering comfortable accommodation for visiting guests",
+    "description14": "A serene garden retreat designed for the peaceful relaxation and reflection of students",
+    "description15": "The development of interlock roads surrounding the GoBank premises, enhancing accessibility and infrastructure",
+    "description16": "Aiming for long-term growth, a series of thoughtful initiatives have been outlined for the future development of the GoBank",
+    "description17": "Come, let us preserve this Pūnya Koti and earn Koti Pūnya"
   },
   "programsSection": {
     "title": "Our Programs",
-    "description": "This initiative was started on December 17, 2006, by His Holiness Shri Shri Raghaveshwara Bharati Mahaswamiji under the 'Kamadugha' project, aimed at protecting Indian cow breeds.",
+    "description": "This initiative was started on December 17, 2006, by <span class='font-bold'>Paramapujya Sri Sri Raghaveshwara Bharati Mahaswamiji</span> under the 'Kamadugha' project, aimed at protecting Indian cow breeds.",
     "description2": "It is part of the holistic mission of Shri Ramachandrapura Math to highlight the benefits of protecting and conserving Desi cows (Bos Indicus) for humanity, supported by historical evidence and research-based outcomes.",
     "description3": "The Gou-Bank undertakes several programs",
     "subtitle1": "Species Continuation",
