@@ -2,14 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Ensure proper font loading */
+@layer base {
+  /* Default English font */
+  body {
+    font-family: "Montserrat", system-ui, -apple-system, sans-serif;
+  }
+
+  /* Kannada font with better fallbacks */
+  html[lang="kn"] body {
+    font-family: "Anek Kannada", "Noto Sans Kannada", system-ui, -apple-system,
+      sans-serif;
+  }
+}
+
 html {
   scroll-behavior: smooth;
 }
 
-body {
-  font-family: "Montserrat", sans-serif;
+/* Add after your @layer base */
+@font-face {
+  font-family: "Anek Kannada";
+  font-display: swap;
+  src: local("Anek Kannada");
 }
 
-html[lang="kn"] body {
-  font-family: "Anek Kannada", sans-serif;
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: local("Montserrat");
 }
